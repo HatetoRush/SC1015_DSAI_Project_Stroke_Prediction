@@ -5,6 +5,9 @@
 # Objective
 Singapore has an ageing population, and the incidence of stroke has been rising consistently. If we can predict a stroke before it happens, many fatal accidents can be prevented. However, traditional stroke prediction models often rely on medical data that is unattainable by a typical individual, so the prediction process can be very cumbersome. What if there is a way to utilise easily accessible data like marriage status, bmi, age, gender, work type... for stroke prediction? If successful, then perhaps we could look into exploring other indirect factors to build even simpler stroke prediction models that the general public can use even without medical knowledge and extensive personal medical data!
 
+# Youtube Link
+[DSAI Mini-Project Video](https://www.youtube.com/watch?v=tcmVRqOpbk0)
+
 # Dataset Folder
 - healthcare-dataset-stroke-data.csv - Original CSV file
 - stroke_cat.csv - Preprocessed data
