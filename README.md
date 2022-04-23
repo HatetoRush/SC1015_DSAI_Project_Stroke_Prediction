@@ -68,10 +68,10 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
   - Stacked bar charts with offset-y: Comparison between the 2 categories of response variable on a highly imbalanced dataset
 - Concepts to handle highly imbalanced data (SMOTE)
 - Concepts and implementation of 4 new machine learning models with their respective libraries required
-  1) Artificial Neural Network
-  2) Logistic Regression
-  3) Random Forest
-  4) XGBoost
+  - Artificial Neural Network
+  - Logistic Regression
+  - Random Forest
+  - XGBoost
 - Concepts on Model Comparison (F1 Score, recall, area under ROC curve). In the case of imbalanced datasets, F1 Score is a better indicator of predictive power than prediction accuracy.
 
 # Indivual Contributions
@@ -87,6 +87,13 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 - Siah Wee Hung
   - EDA
   - ANN and XGBoost Models
+
+# Conclusion
+|          | Logistic Regression | Random Forest | ANN  | XGBoost |
+|----------|---------------------|---------------|------|---------|
+| Accuracy |                0.93 |          0.94 | 0.81 |    0.93 |
+| F1 Score |                0.96 |          0.97 | 0.89 |    0.96 |
+|----------|---------------------|---------------|------|---------|
 
 # References
 - [Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
