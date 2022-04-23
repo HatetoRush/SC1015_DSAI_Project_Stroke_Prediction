@@ -93,7 +93,6 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 |----------|---------------------|---------------|------|---------|
 | Accuracy |                0.93 |          0.94 | 0.81 |    0.93 |
 | F1 Score |                0.96 |          0.97 | 0.89 |    0.96 |
-|----------|---------------------|---------------|------|---------|
 
 # References
 - [Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
