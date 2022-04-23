@@ -89,4 +89,8 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
   - ANN and XGBoost Models
 
 # References
-- (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/discussion)
+- https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/discussion
+- https://www.frontiersin.org/articles/10.3389/fneur.2021.734345/full
+- https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0998-2
+- https://towardsdatascience.com/step-by-step-exploratory-data-analysis-on-stroke-dataset-840aefea8739
+- https://medium.com/geekculture/performing-exploratory-data-analysis-on-stroke-dataset-1b4885989030
