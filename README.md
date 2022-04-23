@@ -63,14 +63,16 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 <kbd><img width="541" alt="image" src="https://user-images.githubusercontent.com/34325457/164873802-7b419359-0c5f-47a5-baf3-cdbc60c9c9ff.png"></kbd>
 
 # What we learnt in this project
-- Additional methods of data visualisation (2 Dimensional KDE Plots) 
+- Additional methods of data visualisation:
+  - 2 Dimensional KDE Plots - Effects of 2 different predictors on probability of response variable
+  - Stacked bar charts with offset-y: Comparison between the 2 categories of response variable on a highly imbalanced dataset
 - Concepts to handle highly imbalanced data (SMOTE)
 - Concepts and implementation of 4 new machine learning models with their respective libraries required
   1) Artificial Neural Network
   2) Logistic Regression
   3) Random Forest
   4) XGBoost
-- Concepts on Model Comparison (F1 Score, recall, area under ROC curve) instead of just comparing accuracy
+- Concepts on Model Comparison (F1 Score, recall, area under ROC curve). In the case of imbalanced datasets, F1 Score is a better indicator of predictive power than prediction accuracy.
 
 # Indivual Contributions
 - Si Ming Zhou
