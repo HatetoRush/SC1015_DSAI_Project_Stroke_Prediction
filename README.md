@@ -65,7 +65,7 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 - We found that Random Forest has the highest prediction accuracy (94.09%) and F1 score (96.95%)
 
 # Indivual Contributions
-- Si Ming zhou
+- Si Ming Zhou
   - gay
 
 - Jeremy Lim
