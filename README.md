@@ -33,10 +33,10 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 - Machine_Learning_Models.ipynb
   - SMOTE
   - 4 Machine learning models implemented
-   1) Artificial Neural Network
-   2) Logistic Regression
-   3) Random Forest
-   4) XGBoost
+    1) Artificial Neural Network
+    2) Logistic Regression
+    3) Random Forest
+    4) XGBoost
   - Comparison of models with F1 score and Accurary
   - Findings: We found that Random Forest has the highest prediction accuracy (94.09%) and F1 score (96.95%)
 
