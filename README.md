@@ -94,4 +94,4 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 - https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0998-2
 - https://towardsdatascience.com/step-by-step-exploratory-data-analysis-on-stroke-dataset-840aefea8739
 - https://medium.com/geekculture/performing-exploratory-data-analysis-on-stroke-dataset-1b4885989030
-- https://books.google.com.sg/books?hl=en&lr=&id=HgmqDwAAQBAJ&oi=fnd&pg=PP1&dq=xgboost+python&ots=nMiCj5I6ND&sig=YzRWuFIwXjxOd0kvXtBAWSorqhg&redir_esc=y#v=onepage&q=xgboost%20python&f=false
+- [XGBoost](https://books.google.com.sg/books?hl=en&lr=&id=HgmqDwAAQBAJ&oi=fnd&pg=PP1&dq=xgboost+python&ots=nMiCj5I6ND&sig=YzRWuFIwXjxOd0kvXtBAWSorqhg&redir_esc=y#v=onepage&q=xgboost%20python&f=false)
