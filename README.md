@@ -89,9 +89,17 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
   - ANN and XGBoost Models
 
 # References
-- https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset/discussion
+- [Dataset](https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset)
 - https://www.frontiersin.org/articles/10.3389/fneur.2021.734345/full
 - https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-019-0998-2
 - https://towardsdatascience.com/step-by-step-exploratory-data-analysis-on-stroke-dataset-840aefea8739
 - https://medium.com/geekculture/performing-exploratory-data-analysis-on-stroke-dataset-1b4885989030
+- https://towardsdatascience.com/simple-example-of-2d-density-plots-in-python-83b83b934f67
+- [Composite Variables](https://study.com/academy/lesson/composite-variable-definition-lesson-quiz.html)
+- [SMOTE](https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/)
+- [SMOTE](https://datascience.stackexchange.com/questions/28227/why-will-the-accuracy-of-a-highly-unbalanced-dataset-reduce-after-oversampling)
+- [F1-Score, Accuracy, ROC, AUC](https://neptune.ai/blog/f1-score-accuracy-roc-auc-pr-auc#:~:text=F1%20score%20vs%20Accuracy,-Both%20of%20those&text=Remember%20that%20the%20F1%20score,observations%20both%20positive%20and%20negative.)
 - [XGBoost](https://books.google.com.sg/books?hl=en&lr=&id=HgmqDwAAQBAJ&oi=fnd&pg=PP1&dq=xgboost+python&ots=nMiCj5I6ND&sig=YzRWuFIwXjxOd0kvXtBAWSorqhg&redir_esc=y#v=onepage&q=xgboost%20python&f=false)
+- [ANN](https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/stamp/stamp.jsp?tp=&arnumber=8079581)
+- [Random Forest](https://www.nature.com.remotexs.ntu.edu.sg/articles/s41598-021-89434-7)
+- [Logistic Regression](https://medium.com/@timilearns_65018/a-logistic-regression-model-to-predict-stroke-occurrence-with-an-imbalanced-dataset-ii-1aa5b800a580)
