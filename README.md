@@ -26,7 +26,18 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 
 # Notebooks Folder
 - Exploratory_Data_Analysis_&_Data_Preprocessing.ipynb
+  - EDA
+  - Fill missing BMI values with mean BMI
+  - One-hot encoding
+
 - Machine_Learning_Models.ipynb
+  - SMOTE
+  - 4 Machine learning models
+     1) Artificial Neural Network
+     2) Logistic Regression
+     3) Random Forest
+     4) XGBoost
+  - Comparison of models with F1 score and Accurary, we found that Random Forest has the highest prediction accuracy (94.09%) and F1 score (96.95%)
 
 # Libraries
 - os
@@ -50,28 +61,19 @@ Singapore has an ageing population, and the incidence of stroke has been rising 
 
 <kbd><img width="541" alt="image" src="https://user-images.githubusercontent.com/34325457/164873802-7b419359-0c5f-47a5-baf3-cdbc60c9c9ff.png"></kbd>
 
-# Exploratory_Data_Analysis_&_Data_Preprocessing.ipynb
-- EDA
-- Fill missing BMI values with mean BMI
-- One-hot encoding
-
-# Machine_Learning_Models.ipynb
-- SMOTE
-- 4 Machine learning models
-  1) Artificial Neural Network
-  2) Logistic Regression
-  3) Random Forest
-  4) XGBoost
-- We found that Random Forest has the highest prediction accuracy (94.09%) and F1 score (96.95%)
 
 # Indivual Contributions
 - Si Ming Zhou
-  - gay
+  - EDA
+  - Logistic Regression
+  - Slides and Presentation
 
 - Jeremy Lim
-  - gay
+  - Random Forest
+  - Slides and Presentation
 
 - Siah Wee Hung
-  - not gay
+  - EDA
+  - ANN and XGBoost Models
 
 # References
